@@ -79,7 +79,7 @@ D1A456F OK
 - Error handling for unexpected inputs is basic (e.g., invalid commands).
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the GPL 3.0 License. See the `LICENSE` file for details.
 
 ## Author
 Kavin Parakh  
